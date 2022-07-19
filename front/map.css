@@ -1,0 +1,26 @@
+.infoWindow {
+  width: 25rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+.infoWindow-img-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.infoWindow-img {
+  width: 100%;
+}
+
+.infoWindow-title {
+  font-size: 2rem;
+}
+
+.infoWindow-address {
+  font-size: 1.6rem;
+}
+
+.infoWindow-btn {
+  font-size: 1.6rem;
+}

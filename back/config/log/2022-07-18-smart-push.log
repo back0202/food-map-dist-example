@@ -1,0 +1,70 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 05:41:50"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 05:45:57"}
+{"level":"error","message":"example Query error\n: {\"message\":\"Query was empty\",\"code\":\"ER_EMPTY_QUERY\",\"errno\":1065,\"sqlState\":\"42000\",\"sqlMessage\":\"Query was empty\"}","timestamp":"2022-07-18 05:46:00"}
+{"level":"error","message":"example Query error\n: {\"message\":\"Query was empty\",\"code\":\"ER_EMPTY_QUERY\",\"errno\":1065,\"sqlState\":\"42000\",\"sqlMessage\":\"Query was empty\"}","timestamp":"2022-07-18 05:49:53"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 05:52:06"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 05:59:39"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:25:54"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:32:33"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:35:01"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:36:27"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:38:24"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:39:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:40:48"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:43:35"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 06:51:53"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 08:19:07"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 08:20:38"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 08:20:47"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 08:26:13"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 08:26:23"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 08:28:22"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 08:41:31"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:19:05"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:19:47"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:21:59"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:25:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:27:37"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:28:39"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:46:59"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:47:03"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:48:36"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:48:41"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:49:23"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:49:26"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:52:10"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:53:02"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:53:38"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:53:42"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 09:54:18"}
+{"level":"error","message":"example Query error\n: {}","timestamp":"2022-07-18 09:54:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 16:14:43"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 16:18:35"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 17:11:47"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:35:38"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:38:44"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:40:22"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:40:41"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:50:17"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:53:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:54:48"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:55:25"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:55:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:55:59"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:56:54"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:57:22"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 19:58:03"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 20:00:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 20:00:55"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 20:02:08"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 20:05:16"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:08:21"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:09:08"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:09:38"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:10:38"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:10:59"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:28:14"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:28:52"}
+{"level":"error","message":"example Query error\n: {\"message\":\"Table 'FoodMap.Students' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"SELECT * FROM Students where studentIdx='2';\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'FoodMap.Students' doesn't exist\"}","timestamp":"2022-07-18 21:28:56"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:33:56"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2022-07-18 21:34:35"}
