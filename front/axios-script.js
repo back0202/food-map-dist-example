@@ -28,9 +28,10 @@ async function getDataSet(category) {
   if (!qs) {
     qs = "";
   }
+
   const dataSet = await axios({
     method: "get",
-    url: "http://3.37.164.134:3000/restaurants/?category=${qs}",
+    url: `http://localhost:3000/restaurants/?category=${qs}`,
     headers: {}, // packet header
     data: {}, // packet body
   });
@@ -159,6 +160,7 @@ function closeMarker() {
 async function setting() {
   try {
     const dataSet = await getDataSet();
+
     setMap(dataSet);
   } catch (error) {
     console.error(error);

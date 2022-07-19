@@ -31,7 +31,7 @@ exports.readRestaurants = async function (req, res) {
     const connection = await pool.getConnection(async (conn) => conn);
     try {
       const [rows] = await indexDao.selectRestaurants(connection, category);
-      console.log(rows);
+
       return res.send({
         result: rows,
         isSuccess: true,
