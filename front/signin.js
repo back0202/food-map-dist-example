@@ -9,7 +9,7 @@
 
 */
 
-let url = "http://3.37.164.134:3000";
+let url = "http://3.37.164.134";
 
 const btnSignIn = document.querySelector("#signin");
 
