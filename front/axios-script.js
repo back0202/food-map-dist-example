@@ -142,7 +142,7 @@ async function categoryHandler(event) {
   const categoryId = event.target.id;
   const category = categoryMap[categoryId];
   try {
-    let categorizedDataSet = await getDataSet();
+    let categorizedDataSet = await getDataSet(category);
     closeMarker();
     closeInfoWindow();
     setMap(categorizedDataSet);
